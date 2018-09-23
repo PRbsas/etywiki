@@ -1,0 +1,19 @@
+{
+  "name": "etywiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRbsas/etywiki.git"
+  },
+  "author": "prbsas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRbsas/etywiki/issues"
+  },
+  "homepage": "https://github.com/PRbsas/etywiki#readme"
+}
